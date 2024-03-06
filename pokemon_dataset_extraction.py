@@ -57,6 +57,7 @@ def main(images_folder, output_file):
 
     print(f"Dataset saved to '{output_file}'")
 
+#dir run
 if __name__ == "__main__":
     images_folder = "images"
     output_file = "pokemon_dataset.csv"
